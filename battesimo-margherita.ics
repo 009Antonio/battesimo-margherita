@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Invito Margherita//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:battesimo-margherita-20270103@invito.local
+DTSTAMP:20261102T215500Z
+DTSTART:20270103T100000Z
+SUMMARY:Battesimo di Margherita
+LOCATION:Chiesa Madre di Sant'Ippolisto Martire\,
+  Via Piazza Tempio Maggiore 1\, Atripalda
+END:VEVENT
+END:VCALENDAR
